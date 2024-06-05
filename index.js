@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**Segue-nos** nas !redes","**A Ver** 100+ Membros"];
+const statusMessages = ["Segue-nos nas !redes","A Ver 100+ Membros"];
 
 
 let currentIndex = 0;
